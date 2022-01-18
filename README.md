@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Hi! I'm Sharvil Misra.
 
-You can use the [editor on GitHub](https://github.com/sharvmisra/sharvmisra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an undergraduate student at Pennsylvania State University pursuing a Bachelors of Science in Applied Data Sciences. I am interested in data analytics, machine learning, and I am passionate about health and fitness!
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
