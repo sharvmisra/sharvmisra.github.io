@@ -3,36 +3,7 @@
 I am an undergraduate student at Pennsylvania State University pursuing a Bachelors of Science in Applied Data Sciences. I am interested in data analytics, machine learning, and I am passionate about health and fitness!
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is a work in progress, like me! Below are some projects I've done.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharvmisra/sharvmisra.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# [Project 1: Financial Crisis Exploratory Data Analysis](https://github.com/sharvmisra/Exploratory-Data-Analysis) 
+* Scraped stock information for six different banks from 2006-2016, then used Python libraries such as Pandas, numpy, and Seaborn to create plots and heatmaps of the banks stock returns. Analyzed this data to look for correlations between stocks, and which stocks had the best and worst single day returns. Also extracted statistics such as standard deviation to analyze stock risk.
