@@ -1,4 +1,4 @@
-##Hi! I'm Sharvil Misra!
+# Hi! I'm Sharvil Misra!
 
 I am an undergraduate student at Pennsylvania State University pursuing a Bachelors of Science in Applied Data Sciences. I am interested in data analytics, machine learning, and I am passionate about health and fitness!
 
