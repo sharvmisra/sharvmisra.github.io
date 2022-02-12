@@ -13,6 +13,6 @@ This page is a work in progress, like me! Below are some projects I've done.
 # [Project 2: Breast Cancer Diagnosis Using Machine Learning](https://github.com/sharvmisra/Breast-Cancer-Diagnosis-Using-Machine-Learning)
 * Trained a decision tree-based model to automate the diagnosis of breast cancer. Modeled and tuned the parameters for overfitting reduction. Used stratified K-fold validation to get a training and testing accuracy of 95%.
 
-![](https://github.com/sharvmisra/sharvmisra.github.io/blob/main/images/Breast%20Cancer%20Image.png)
+![](https://github.com/sharvmisra/sharvmisra.github.io/blob/main/images/Breast%20Cancer%20Image.png?raw=true)
 
 
